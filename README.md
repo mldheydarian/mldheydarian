@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @mldheydarian
 - 👀 I’m interested in Software Enginner
 - 🌱 I’m currently learning JAVA
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 mldheydarian/mldheydarian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
